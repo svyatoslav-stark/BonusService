@@ -36,7 +36,7 @@ public class BonusServiceTest {
     }
 
     @Test
-    void testThree () {
+    void testThree() {
         BonusService service = new BonusService();
 
         // подготавливаем данные:
@@ -52,7 +52,7 @@ public class BonusServiceTest {
     }
 
     @Test
-    void testFour () {
+    void testFour() {
         BonusService service = new BonusService();
 
         // подготавливаем данные:
